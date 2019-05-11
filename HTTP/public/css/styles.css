@@ -1,3 +1,19 @@
 body {
     background-color: skyblue;
 }
+
+p {
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6em;
+}
+
+.container {
+    margin: 30px;
+}
+
+img {
+    width:80%;
+}
